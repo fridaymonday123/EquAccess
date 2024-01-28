@@ -7,9 +7,10 @@ Team Name: EquAccess
 
 Team Members:
 
-Xuanliu
+Xuan Liu
 
 Xiaoguang Wang    
+(www.xiaoguangwang.com)
 
 Github url:
 https://github.com/fridaymonday123/equaccess
