@@ -6,7 +6,9 @@ Currently, patient pre-operative clinic scheduling is performed manually, consum
 Team Name: EquAccess
 
 Team Members:
-Xuanliu 
+
+Xuanliu
+
 Xiaoguang Wang    
 
 Github url:
