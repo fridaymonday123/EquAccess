@@ -1,0 +1,6 @@
+NurseAshley 0,120,120,120 Registration,RNInterview,LaboratoryECG,LaboratoryBloodwork
+NurseBrook 0,135,105,120 RNInterview,LaboratoryECG,LaboratoryBloodwork,Registration
+NurseCameron 0,150,90,120 LaboratoryECG,LaboratoryBloodwork,Registration,RNInterview
+NurseDevon 0,140,100,120 LaboratoryBloodwork,Registration,RNInterview,LaboratoryECG
+DoctorEli 0,120,45,45,45,45,45,45 Anesthesiologist
+TechFranky 0,180,180,180 XrayinRadiology
